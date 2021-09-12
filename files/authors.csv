@@ -1,0 +1,431 @@
+﻿#,Author,Affiliation
+3,Dejun Teng,stony brook university
+3,Akshay Nehe,stony brook university
+3,Prajeeth Emanuel,stony brook university
+3,Furqan Baig,stony brook university
+3,Jun Kong,Georgia State University
+3,Fusheng Wang,stony brook university
+4,Wenzel Friedsam,University of Stuttgart
+4,Robin Hieber,University of Stuttgart
+4,Alexander Kharitonov,University of Stuttgart
+4,Tobias Rupp,University of Stuttgart
+8,Daichi Amagata,Osaka University
+8,Shohei Tsuruoka,Osaka University
+8,Yusuke Arai,Osaka University
+8,Takahiro Hara,Osaka University
+9,Agnieszka Jastrzebska,Warsaw University of Technology
+9,Wladyslaw Homenda,"Warsaw University of Technology, Warsaw, Poland"
+10,Rita Parada Ramos,"INESC-ID and IST, University of Lisbon"
+10,Bruno Martins,"INESC-ID and IST, University of Lisbon"
+13,Zhanhong Yan,IBM Research
+13,Satoshi Masuda,IBM Research
+13,Michiaki Tatsubori,IBM Research
+16,Zheng Zhu,University of Electronic Science and Technology of China
+16,Huimin Ren,Worcester Polytechnic Institute
+16,Sijie Ruan,Xidian University
+16,Boyang Han,"JD iCity, JD Technology"
+16,Jie Bao,"JD iCity, JD Technology"
+16,Ruiyuan Li,"JD iCity, JD Technology"
+16,Yanhua Li,Worcester Polytechnic Institute
+16,Yu Zheng,"JD iCity, JD Technology"
+17,Bram Custers,Eindhoven University of Technology
+17,Wouter Meulemans,Eindhoven University of Technology
+17,Bettina Speckmann,Eindhoven University of Technology
+17,Kevin Verbeek,Eindhoven University of Technology
+18,Favyen Bastani,MIT CSAIL
+18,Songtao He,MIT CSAIL
+18,Satvat Jagwani,MIT CSAIL
+18,Mohammad Alizadeh,MIT CSAIL
+18,Hari Balakrishnan,MIT CSAIL
+18,Sanjay Chawla,Qatar Computing Research Institute
+18,Sam Madden,MIT CSAIL
+18,Mohammad Amin Sadeghi,Qatar Computing Research Institute
+20,Kostas Kollias,Google
+20,Arun Chandrashekharapuram,Google
+20,Lisa Fawcett,Google
+20,Sreenivas Gollapudi,Google
+20,Ali Sinop,Google
+23,Mahan Tabatabaie,University of Connecticut
+23,Suining He,University of Connecticut
+23,Xi Yang,University of Connecticut
+25,Kien Nguyen,University of Southern California
+25,John Krumm,Microsoft
+25,Cyrus Shahabi,University of Southern California
+26,Guangyin Jin,"College of Systems Engineering, National University of Defense Technology"
+26,Huan Yan,"Department of Electronic Engineering, Tsinghua University"
+26,Fuxian Li,"Department of Electronic Engineering, Tsinghua University"
+26,Yong Li,"Department of Electronic Engineering, Tsinghua University"
+26,Jincai Huang,"College of Systems Engineering, National University of Defense Technology"
+30,Wenmiao Hu,Grabtaxi holding
+30,Yifang Yin,National University of Singapore
+30,Ying Kiat Tan,National University of Singapore
+30,An Tran,Grabtaxi Holdings
+30,Hannes Kruppa,Grabtaxi Holdings
+30,Roger Zimmermann,National University of Singapore
+34,Hassan Noureddine,"Naval Academy Research Institute, F-29240 Brest, France"
+34,Cyril Ray,"Arts et Metiers Institute of Technology, Naval Academy Research Institute, F-29240 Brest, France"
+34,Christophe Claramunt,"Arts et Metiers Institute of Technology, Naval Academy Research Institute, F-29240 Brest, France"
+35,Mohamed Amin Hammami,Imam Abdulrahman Bin Faisal University
+35,Christophe Claramunt,Naval Academy Research Institute
+36,Yifang Yin,National University of Singapore
+36,An Tran,Grabtaxi Holdings
+36,Ying Zhang,National University of Singapore
+36,Wenmiao Hu,Grabtaxi Holdings
+36,Guanfeng Wang,Grabtaxi Holdings
+36,Jagannadan Varadarajan,Grabtaxi Holdings
+36,Roger Zimmermann,National University of Singapore
+36,See-Kiong Ng,National University of Singapore
+40,Hanxiang Hao,Purdue Univerisity
+40,Sriram Baireddy,Purdue University
+40,Kevin LaTourette,Lockheed Martin Space
+40,Latisha Konz,Lockheed Martin Space
+40,Moses Chan,Lockheed Martin Space
+40,Mary Comer,Purdue University
+40,Edward Delp,Purdue University
+41,Camila Ferreira Costa,University of Alberta
+41,Mario Nascimento,University of Alberta
+43,He Li,Xidian University
+43,Shiyu Zhang,Xidian University
+43,Xuejiao Li,Xidian University
+43,Hongjie Huang,Xidian University
+43,Liangcai Su,Xidian University
+43,Duo Jin,Xidian University
+43,Linghao Chen,Xidian University
+43,Jianbin Huang,Xidian University
+43,Jaesoo Yoo,Chungbuk National University
+44,He Li,Xidian University
+44,Duo Jin,Xidian University
+44,Xuejiao Li,Xidian University
+44,Jianbin Huang,Xidian University
+44,Jaesoo Yoo,Chungbuk National University
+45,Konstantin Klemmer,The University of Warwick
+45,Daniel Neill,New York University
+46,Jingyuan Wang,Beihang University
+46,Jiawei Jiang,Beihang University
+46,Wenjun Jiang,Beihang University
+46,Chao Li,Beihang University
+46,Xin Zhao,Renmin University of China
+47,Menghai Pan,Worcester Polytechnic Institute
+47,Xin Zhang,Worcester Polytechnic Institute (WPI)
+47,Yanhua Li,Worcester Polytechnic Institute (WPI)
+47,Xun Zhou,University of Iowa
+47,Jun Luo,Lenovo Group Limited
+48,Xiang Li,East China Normal University
+48,Yijun He,East China Normal University
+50,Fandel Lin,National Cheng Kung University
+50,Hsun-Ping Hsieh,National Cheng Kung University
+52,John Krumm,Microsoft
+56,Sina Shaham,University of Southern California
+56,Gabriel Ghinita,"University of Massachusetts, Boston"
+56,Ritesh Ahuja,University of Southern California
+56,John Krumm,Microsoft Research
+56,Cyrus Shahabi,University of Southern California
+58,Gautam Thakur,Oak Ridge National Laboratory
+58,Kelly Sims,Oak Ridge National Laboratory
+58,Chantelle Rittmaier,Oak Ridge National Laboratory
+58,Joseph Bentley,Oak Ridge National Laboratory
+58,Debraj De,Oak Ridge National Laboratory
+58,Junchuan Fan,Oak Ridge National Laboratory
+58,Rachel Palumbo,Oak Ridge National Laboratory
+58,Jesse McGaha,Oak Ridge National Laboratory
+58,Phil Nugent,Oak Ridge National Laboratory
+58,Tao Liu,Oak Ridge National Laboratory
+58,Tyler Sheldon,Oak Ridge National Laboratory
+58,Bryan Eaton,Oak Ridge National Laboratory
+58,Jordan Burdette,ORNL
+58,Delenia Wray,Oak Ridge National Laboratory
+58,Kevin Sparks,Oak Ridge National Laboratory
+60,Soto Anno,Tokyo Institute of Technology
+60,Kota Tsubouchi,Yahoo Japan Corporation
+60,Masamichi Shimosaka,Tokyo Institute of Technology
+61,Yu Gu,Shenzhen University
+61,Wei Tu,Shenzhen University
+61,Qingquan Li,Shenzhen University
+61,Tianhong Zhao,Shenzhen University
+61,Dingyi Zhao,Shenzhen University
+61,Song Zhu,Shenzhen University
+61,Jiasong Zhu,Shenzhen University
+62,Koh Takeuchi,Kyoto University
+62,Masaaki Imaizumi,The University of Tokyo
+62,Shunsuke Kanda,RIKEN Center for Advanced Intelligence Project
+62,Keisuke Fujii,Nagoya University
+62,Masakazu Ishihata,NTT Communication Science Laboratories
+62,Takuya Maekawa,Osaka University
+62,Ken Yoda,Nagoya University
+62,Yasuo Tabei,RIKEN Center for Advanced Intelligence Project
+64,Tianfu He,Harbin Institute of Technology
+64,Guochun Chen,JD Technology
+64,Chuishi Meng,JD Technology
+64,Huajun He,JD Technology
+64,Zheyi Pan,JD Technology
+64,Yexin Li,JD Technology
+64,Sijie Ruan,JD Technology
+64,Huimin Ren,JD Technology
+64,Ye Yuan,JD Technology
+64,Ruiyuan Li,JD Technology
+64,Junbo Zhang,JD Technology
+64,Jie Bao,JD Technology
+64,Hui He,Harbin Institute of Technology
+64,Yu Zheng,JD Technology
+66,Christian Häcker,Johannes Gutenberg University Mainz
+66,Panagiotis Bouros,Johannes Gutenberg University Mainz
+66,Theodoros Chondrogiannis,University of Konstanz
+66,Ernst Althaus,Johannes Gutenberg University Mainz
+67,Shangbin Wu,"School of Informatics, Xiamen University, China"
+67,Xiaoliang Fan,"School of Informatics, Xiamen University, China"
+67,Longbiao Chen,"School of Informatics, Xiamen University, China"
+67,Ming Cheng,"School of Informatics, Xiamen University, China"
+67,Cheng Wang,"School of Informatics, Xiamen University, China"
+69,Chenbei Lu,Tsinghua University
+69,Jiaman Wu,Tsinghua University
+69,Chenye Wu,"The Chinese University of Hong Kong, Shenzhen"
+69,Yongli Qin,Didi Chuxing
+69,Qun Li,Didi Chuxing
+69,Nan Ma,Didi Chuxing
+75,Sujoy Bhore,"Indian Institute of Science Education and Research, Bhopal, India."
+75,Robert Ganian,"Institute of Logic and Computation,TU Wien"
+75,Guangping Li,"Institute of Logic and Computation,TU Wien"
+75,Martin Nöllenburg,"Institute of Logic and Computation,TU Wien"
+75,Jules Wulms,"Institute of Logic and Computation,TU Wien"
+76,João Coelho,IST
+76,João Magalhães,FCT/UNL
+76,Bruno Martins,IST
+77,Ahmed Shokry,Alexandria university
+77,Moustafa Youssef,Alexandria University
+80,Ali Kemal Sinop,Google
+80,Sreenivas Gollapudi,Google
+80,Kostas Kollias,Google
+80,Lisa Fawcett,Google
+85,Abdulaziz Almaslukh,King Saud University
+85,Yongyi Liu,"University of California, Riverside"
+85,Amr Magdy,"University of California, Riverside"
+86,Theodoros Chondrogiannis,University of Konstanz
+86,Panagiotis Bouros,Johannes Gutenberg University Mainz
+86,Winfried Emser,University of Konstanz
+87,Yang Zhen,Tokyo Institute of Technology
+87,Masato Sugasaki,Tokyo Institute of Technology
+87,Yoshihiro Kawahara,The University of Tokyo
+87,Kota Tsubouchi,Yahoo Japan Corporation
+87,Matthew Ishige,The University of Tokyo
+87,Masamichi Shimosaka,Tokyo Institute of Technology
+88,Joseph Zalewski,Kansas State University
+88,Pascal Hitzler,Kansas State University
+88,Krzysztof Janowicz,University of California Santa Barbara
+89,Yuki Awano,NTT DATA Corporation
+89,Takuya Nishimura,NTT DATA Corporation
+91,Yiqun Xie,University of Maryland
+91,Xiaowei Jia,University of Pittsburgh
+91,Han Bao,University of Iowa
+91,Xun Zhou,University of Iowa
+91,Jia Yu,Washington State University
+91,Rahul Ghosh,University of Minnesota
+91,Praveen Ravirathinam,University of Minnesota
+94,Samriddhi Singla,"University of California, Riverside"
+94,Ahmed Eldawy,"University of California, Riverside"
+94,Tina Diao,Stanford University
+94,Ayan Mukhopadhyay,Vanderbilt University
+94,Elia Scudiero,"University of California, Riverside"
+95,Keiichi Ochiai,"NTT DOCOMO, INC."
+95,Hiroto Akatsuka,"NTT DOCOMO, INC."
+95,Wataru Yamada,"NTT DOCOMO, INC."
+95,Masayuki Terada,"NTT DOCOMO, INC."
+96,Setu Shah,Arizona State University
+96,Venkata Vamsikrishna Meduri,Arizona State University
+96,Mohamed Sarwat,Arizona State University
+97,Guoray Cai,The Pennsylvania State University
+97,Yimu Pan,The Pennsylvania State University
+98,Shengcheng Cai,East China Normal University
+98,Tao Wu,East China Normal University
+98,Jiali Mao,East China Normal University
+98,Cheqing Jin,East China Normal University
+101,Peizhong Yang,Yunnan University
+101,Lizhen Wang,Yunnan University
+101,Xiaoxuan Wang,Yunnan University
+101,Lihua Zhou,Yunnan University
+101,Hongmei Chen,Yunnan University
+102,Xu Teng,Iowa State University
+102,Goce Trajcevski,Iowa State University
+102,Andreas Zufle,George Mason University
+105,Yatong Song,Meituan Group
+105,Jiawei Li,Meituan Group
+105,Liying Chen,Meituan Group
+105,Shuiping Chen,Meituan Group
+105,Renqing He,Meituan Group
+105,Zhizhao Sun,Meituan Group
+106,Zongyu Lin,Tsinghua University
+106,Guozhen Zhang,Tsinghua University
+106,Zhiqun He,"Sensetime, China"
+106,Jie Feng,Tsinghua University
+106,Wei Wu,"Sensetime, China"
+106,Yong Li,Tsinghua University
+110,Xu Teng,Iowa State University
+110,Thomas Beckler,Iowa State University
+110,Bradley Gannon,Iowa State University
+110,Benjamin Huinker,Iowa State University
+110,Gabriel Huinker,Iowa State University
+110,Koushhik Kumar,Iowa State University
+110,Cristina Marquez,Iowa State University
+110,Jacob Spooner,Iowa State University
+110,Goce Trajcevski,Iowa State University
+110,Aaron Dotter,Northwestern University
+110,Jeff Andrews,Northwestern University
+110,Scott Coughlin,Northwestern University
+110,Juan Garcia Serra,Northwestern University
+110,Ying Qin,Northwestern University
+110,Nam Tran,Université de Genève
+110,Jaime Roman Garja,Université de Genève
+110,Konstantinos Kouvlakis,Université de Genève
+110,Emmanouil Zapartas,Université de Genève
+110,Simone Bavera,Université de Genève
+110,Devina Misr,Université de Genève
+110,Anastasios Fragkos,Université de Genève
+110,Prabin Giri,Iowa State University
+111,Huajun He,"School of Compution and Artifical Intelligence, Southwest Jiaotong University"
+111,Ruiyuan Li,JD Intelligent Cities Research
+111,Jie Bao,JD Intelligent Cities Research
+111,Tianrui Li,"School of Compution and Artifical Intelligence, Southwest Jiaotong University"
+111,Yu Zheng,"School of Compution and Artifical Intelligence, Southwest Jiaotong University"
+115,Yue Hu,"School of Computer Science and Technology, Xidian University, Shaanxi, China"
+115,Sijie Ruan,"School of Computer Science and Technology, Xidian University, Shaanxi, China"
+115,Yuting Ni,"JD iCity, JD Technology, Beijing, China"
+115,Huajun He,"Southwest Jiaotong University, Sichuan, China"
+115,Jie Bao,JD Intelligent Cities Research
+115,Ruiyuan Li,JD Intelligent Cities Research
+115,Yu Zheng,"School of Computer Science and Technology, Xidian University, Shaanxi, China"
+121,Mingfei Cai,The University of Tokyo
+121,Yanbo Pang,The University of Tokyo
+121,Takehiro Kashiyama,The University of Tokyo
+121,Yoshihide Sekimoto,The University of Tokyo
+125,Nicolas Tempelmeier,L3S Research Center
+125,Elena Demidova,Bonn University
+127,Leonardo Figueiredo,Federal University of Viçosa
+127,Germano Santos,Federal University of Viçosa
+127,Raissa Souza,Federal University of Viçosa
+127,Fabricio Silva,Federal University of Viçosa
+127,Thais Silva,Federal University of Viçosa
+130,Edward Buckland,University of Melbourne
+130,Egemen Tanin,University of Melbourne
+130,Nicholas Geard,University of Melbourne
+130,Cameron Zachreson,University of Melbourne
+130,Hairuo Xie,University of Melbourne
+130,Hanan Samet,University of Maryland
+133,Yuen Hoi Lau,The Hong Kong University of Science and Technology
+133,Raymond Chi-Wing Wong,The Hong Kong University of Science and Technology
+142,Andreas S. Andersen,Aalborg University
+142,Andreas D Christensen,Aalborg University
+142,Philip Michaelsen,Aalborg University
+142,Shpend Gjela,Aalborg University
+142,Kristian Torp,Aalborg University
+148,Ruiyuan Li,"Chongqing University, JD Intelligent Cities Research"
+148,Rubin Wang,JD Intelligent Cities Research
+148,Junwen Liu,JD Intelligent Cities Research
+148,Zizheng Yu,"Xidian University, JD Intelligent Cities Research"
+148,Huajun He,"Southwest Jiaotong University, JD Intelligent Cities Research"
+148,Tianfu He,"Harbin Institute of Technology, JD Intelligent Cities Research"
+148,Sijie Ruan,"Xidian University, JD Intelligent Cities Research"
+148,Jie Bao,JD Intelligent Cities Research
+148,Chao Chen,Chongqing University
+148,Fuqiang Gu,Chongqing University
+148,Liang Hong,Wuhan University
+148,Yu Zheng,JD Intelligent Cities Research
+151,Ai-Te Kuo,Auburn University
+151,Hanan Samet,University of Maryland
+152,Dongjie Wang,University of Central Florida
+152,Kunpeng Liu,University of Central Florida
+152,David Mohaisen,University of Central Florida
+152,Pengyang Wang,University of Macao
+152,Chang-Tien Lu,Virginia Tech
+152,Yanjie Fu,University of Central Florida
+156,Solomiia Kurchaba,"Leiden Institute of Advanced Computer Science, Leiden University"
+156,Jasper van Vliet,Human Environment and Transport Inspectorate (ILT)
+156,Jacqueline J. Meulman,"Mathematical Institute, Leiden University and Department of Statistics, Stanford University"
+156,Fons J. Verbeek,"Leiden Institute of Advanced Computer Science, Leiden University"
+156,Cor J. Veenman,"Leiden Institute of Advanced Computer Science, Leiden University and TNO"
+157,Tin Vu,"University of California, Riverside"
+157,Alberto Belussi,"Dept. of Computer Science, University of Verona"
+157,Sara Migliorini,Università degli Studi di Verona
+157,Ahmed Eldawy,"University of California, Riverside"
+158,Dimitrios Skoutas,Athena Research Center
+158,Dimitris Sacharidis,ULB
+158,Kostas Patroumpas,Athena Research Center
+159,Ouri Wolfson,University of Illinois at Chicago
+159,Prabin Giri,Iowa State University
+159,Sushil Jajodia,George Mason University
+159,Goce Trajcevski,Iowa State University
+160,Shekoofeh Mokhtari,Microsoft
+160,Alex Rusnak,Microsoft
+160,Tsheko Mutungu,Microsoft
+160,Dragomir Yankov,Microsoft
+163,Liyue Fan,UNC Charlotte
+163,Ishan Gote,UNC Charlotte
+164,Licia Amichi,INRIA and École Polytechnique
+164,Aline Viana Carneiro,INRIIA
+164,Mark Crovella,Boston University
+164,Antonio Loureiro,Federal University of Minas Gerais
+165,Joe Mays,HERE Technologies
+165,Sachin Kharude,HERE Technologies
+165,John Oram,HERE Technologies
+165,Dinesh Rao,HERE Technologies
+165,Yunzhi Shi,Amazon Web Services
+165,Raj Biswas,Amazon Web Services
+165,Mehdi Noori,Amazon Web Services
+165,Xin Chen,Amazon Web Services
+165,Michael Kilberry,Amazon Web Services
+169,Chen Jiang,Auburn University
+169,Jingjing Li,Auburn University
+169,Wenlu Wang,TAMUCC
+169,Wei-Shinn Ku,Auburn University
+171,Anderson Chaves Carniel,Federal University of São Carlos
+171,Felippe Galdino,Federal University of Technology - Paraná
+171,Juliana Strieder Philippsen,Federal University of Technology - Paraná
+171,Markus Schneider,University of Florida
+172,Hannah Bast,University of Freiburg
+172,Patrick Brosi,University of Freiburg
+172,Johannes Kalmbach,University of Freiburg
+172,Axel Lehmann,University of Freiburg
+173,Darniton Viana,Universidade Federal de Pernambuco
+173,Luciano Barbosa,Universidade Federal de Pernambuco
+177,Gorisha Agarwal,University of British Columbia
+177,Laks V.S. Lakshmanan,University of British Columbia
+177,Xiaoming Gao,"Facebook, Inc."
+177,Kevin Ventullo,N/A
+177,Saurav Mohapatra,N/A
+177,Saikat Basu,"Facebook, Inc."
+178,I-Ying Wu,National Cheng Kung University
+178,Fandel Lin,National Cheng Kung University
+178,Hsun-Ping Hsieh,National Cheng Kung University
+181,Mohammad Reza Zare Shahneh,"University of California, Riverside"
+181,Amr Magdy,"University of California, Riverside"
+181,Samet Oymak,"University of California, Riverside"
+182,Yunting Song,"University of Maryland, College Park"
+182,Riccardo Fellegara,German Aerospace Center (DLR)
+182,Federico Iuricich,Clemson University
+182,Leila De Floriani,"University of Maryland, College Park"
+189,Robert Fitzgerald,University of Colorado Denver
+189,Farnoush Banaei-Kashani,University of Colorado Denver
+195,Yawen Zhang,"Department of Computer Science, University of Colorado Boulder"
+195,Qin Lv,"Department of Computer Science, University of Colorado Boulder"
+195,Michael Hannigan,"Department of Mechanical Engineering, Environmental Engineering Program, University of Colorado Boulder"
+196,Joachim Gudmundsson,"School of Computer Science, University of Sydney"
+196,Martin P. Seybold,"School of Computer Science, University of Sydney"
+196,John Pfeifer,"School of Computer Science, University of Sydney"
+197,Zhida Chen,Nanyang Technological University
+197,Gao Cong,Nanyang Technological University
+197,Walid Aref,Purdue University
+203,Payas Rajan,"University of California, Riverside"
+203,Chinya Ravishankar,"University of California, Riverside"
+206,Honglin Zhu,Hong Kong Baptist University
+206,Qiming Zhou,Hong Kong Baptist University
+208,Sitao Min,Rutgers Business School
+208,Ritesh Ahuja,University of Southern California
+208,Yingzhe Liu,University of Southern California
+208,Abbas Zaidi,University of Southern California
+208,Catherine Phu,University of Southern California
+208,Luciano Nocera,University of Southern California
+208,Cyrus Shahabi,University of Southern California
+213,Rohit Verma,University of Cambridge
+213,Justas Brazauskas,University of Cambridge
+213,Vadim Safronov,University of Cambridge
+213,Matthew Danish,University of Cambridge
+213,Ian Lewis,University of Cambridge
+213,Richard Mortier,University of Cambridge

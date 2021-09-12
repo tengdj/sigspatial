@@ -47,13 +47,13 @@ SRC Phase 3: Presentations of finalists <br />
 Aaron Lowe (Duke University), Pankaj Agarwal (Duke University), Lars Arge (Aarhus University), Svend Svendsen (Aarhus University)
 
 - **A Time-Windowed Data Structure for Spatial Density Maps** <br>
-Annika Bonerath (Institute of Geodesy and Geoinformation, University of Bonn), Benjamin Niedermann (University of Bonn), Jim Diederich (University of Bonn), Yannick Orgeig (University of Bonn), Johannes Oehrlein (University of Bonn), Jan-Henrik Haunert (Universität Bonn)
+Annika Bonerath (Institute of Geodesy and Geoinformation, University of Bonn), Benjamin Niedermann (University of Bonn), Jim Diederich (University of Bonn), Yannick Orgeig (University of Bonn), Johannes Oehrlein (University of Bonn), Jan-Henrik Haunert (Universit盲t Bonn)
 
 - **Incorporating domain knowledge into Memetic Algorithms for solving Spatial Optimization problems<font color="red">(best paper candidate)</font>** <br>
 Subhodip Biswas (Virginia Tech), Fanglan Chen (Virginia Tech), Zhiqian Chen (Mississippi State University), Chang-Tien Lu (Virginia Tech), Naren Ramakrishnan (Virginia Tech)
 
 - **Topology-Preserving Terrain Simplification** <br>
-Ulderico Fugacci (CNR - IMATI), Michael Kerber (Graz University of Technology), Hugo Manet (École Normale Supérieure)
+Ulderico Fugacci (CNR - IMATI), Michael Kerber (Graz University of Technology), Hugo Manet (脡cole Normale Sup茅rieure)
 
 - **Estimation of Road Transverse Slope Using Crowd-Sourced Data from Smartphones** <br>
 Abhishek Gupta (The State University of New York at Buffalo), Abhinav Khare (The State University of New York at Buffalo), Haiming Jin (Shanghai Jiaotong University), Adel Sadek (The State University of New York at Buffalo), Lu Su (The State University of New York at Buffalo), Chunming Qiao (The State University of New York at Buffalo)
@@ -64,7 +64,7 @@ Abhishek Gupta (The State University of New York at Buffalo), Abhinav Khare (The
 
 <span class="session-info">Session Chair: TBA</span>
 
-- **Node–attributed Spatial Graph Partitioning** <br>
+- **Node鈥揳ttributed Spatial Graph Partitioning** <br>
 Daniel Bereznyi (Florida Atlantic University), Ahmad Qutbuddin (Florida Atlantic University), Younggu Her (University of Florida), Kwangsoo Yang (Florida Atlantic University)
 
 - **Semantically Augmented Range Queries over Heterogeneous Geospatial Data** <br>
@@ -74,10 +74,10 @@ Goce Trajcevski (Iowa State university), Booma Sowkarthiga Balasubramani (Univer
 Anas Daghistani (Purdue University), Walid Aref (Purdue University), Arif Ghafoor (Purdue University)
 
 - **Distributed Spatiotemporal Trajectory Query Processing In SQL** <br>
-Mohamed Bakli (Université Libre de Bruxelles), Mahmoud Sakr (Université Libre de Bruxelles), Esteban Zimányi (Université Libre de Bruxelles)
+Mohamed Bakli (Universit茅 Libre de Bruxelles), Mahmoud Sakr (Universit茅 Libre de Bruxelles), Esteban Zim谩nyi (Universit茅 Libre de Bruxelles)
 
 - **(k, l)-Medians Clustering of Trajectories Using Continuous Dynamic Time Warping** <br>
-Milutin Brankovic (University of Sydney), Kevin Buchin (Eindhoven University of Technology), Koen Klaren (Eindhoven University of Technology), André Nusser (Max Planck Institute for Informatics), Aleksandr Popov (Eindhoven University of Technology), Sampson Wong (University of Sydney)
+Milutin Brankovic (University of Sydney), Kevin Buchin (Eindhoven University of Technology), Koen Klaren (Eindhoven University of Technology), Andr茅 Nusser (Max Planck Institute for Informatics), Aleksandr Popov (Eindhoven University of Technology), Sampson Wong (University of Sydney)
 
 <a id="postersession-1a"></a>
 ### 02:30 PM - 04:00 PM PST <span class="utcToLocal">2020-11-04T22:30:00.0Z</span><span class="utcToLocal2">2020-11-04T24:00:00.0Z</span><br>Poster/Demo Session 1A<br><a href="https://zoom.us/j/94521401598"><img src="../images/buttons/zoom.png" style="max-height:55px;"  class="confimage"></a><a href="https://app.slack.com/client/T01AC1CEALW/C01DSMZ3GFJ"><img src="../images/buttons/slack.png" style="max-height:55px;"  class="confimage"></a>
@@ -91,7 +91,7 @@ Shohei Tsuruoka (Osaka University), Daichi Amagata (Osaka University), Shunya Ni
 Andi Dai (McGill University), David Meger (McGill University)
 
 - **Dynamic Population Estimation Using Anonymized Mobility Data** <br>
-Xiang Liu (HERE Technologies), Philo Pöllman (HERE Technologies)
+Xiang Liu (HERE Technologies), Philo P枚llman (HERE Technologies)
 
 - **Ambulance Dispatch via Deep Reinforcement Learning** <br>
 Kunpeng Liu (University of Central Florida), Xiaolin Li (Nanjing University), Cliff C. Zou (University of Central Florida), Haibo Huang (University of Central Florida), Yanjie Fu (University of Central Florida)
@@ -121,7 +121,7 @@ Saheli Ghosh (University of California, Riverside), Akil Sevim (University of Ca
 Wei Li (Auburn University), Haiquan Chen (California State University, Sacramento), Wei-Shinn Ku (Auburn University), Xiao Qin (Auburn University)
 
 - **A Generator for 2D Moving Regions** <br>
-José Duarte (University of Aveiro), Mark McKenney (Southern Illinois University Edwardsville)
+Jos茅 Duarte (University of Aveiro), Mark McKenney (Southern Illinois University Edwardsville)
 
 
 <a id="postersession-1b"></a>
@@ -163,7 +163,7 @@ Kasper F. Pedersen (Aalborg University), Kristian Torp (Aalborg University)
 Ying Hu (Nanjing Normal University), Jinping Jia (Nanjing Normal University), Bin Zhao (Nanjing Normal University), Genlin Ji (Nanjing Normal University), Zhaoyuan Yu (Nanjing Normal University), Xintao Liu (The Hong Kong Polytechnic University)
 
 - **staty: Quality Assurance for Public Transit Stations in OpenStreetMap (Demo Paper)** <br>
-Hannah Bast (University of Freiburg), Patrick Brosi (University of Freiburg), Markus Näther (University of Freiburg)
+Hannah Bast (University of Freiburg), Patrick Brosi (University of Freiburg), Markus N盲ther (University of Freiburg)
 
 - **PinSout: Automatic 3D Indoor Space Construction from Point Clouds with Deep Learning** <br>
 Taehoon Kim (National Institute of Advanced Industrial Science and Technology (AIST)), Wijae Cho (National Institute of Advanced Industrial Science and Technology (AIST)), Akiyoshi Matono (National Institute of Advanced Industrial Science and Technology (AIST)), Kyoung-Sook Kim (National Institute of Advanced Industrial Science and Technology (AIST))
@@ -210,7 +210,7 @@ Quanjun Chen (The  University of Tokyo), Renhe Jiang (The University of Tokyo), 
 Yanbo Pang (Institute of Industrial Science,  University of Tokyo), Takahiro Yabe (Lyles School of Civil Engineering, Purdue University), Kota Tsubouchi (Yahoo Japan Corporation), Yoshihide Sekimoto (Institute of Industrial Science,  University of Tokyo)
 
 - **Station-to-User Transfer Learning: Towards Explainable User Clustering Through Latent Trip Signatures Using Tidal-Regularized Non-Negative Matrix Factorization** <br>
-Liming Zhang (George Mason University), Andreas Züfle (George Mason University), Dieter Pfoser (George Mason University)
+Liming Zhang (George Mason University), Andreas Z眉fle (George Mason University), Dieter Pfoser (George Mason University)
 
 - **Understanding individuals' proclivity for novelty seeking** <br>
 Licia Amichi (Inria), Aline Carneiro Viana (INRIA), Mark Crovella (Boston University), Antonio Loureiro (Universidade Federal de Minas Gerais)
@@ -228,7 +228,7 @@ Jiahui Wu (University of Maryland), Enrique Frias-Martinez (Telefonica Research)
 Yichen Ding (The University of Iowa), Xun Zhou (University of Iowa), Han Bao (University of Iowa), Yanhua Li (Worcester Polytechnic Institute), Cara Hamann (University of Iowa), Steven Spears (University of Iowa), Zhuoning Yuan (University of Iowa)
 
 - **Fishing Vessels Activity Detection from Longitudinal AIS Data** <br>
-Saeed Arasteh (Engineering Science Science, Simon Fraser University, BC, Canada), Mohammad A. Tayebi (Computing Science, Simon Fraser University, BC, Canada), Zahra Zohrevand (Computing Science, Simon Fraser University, BC, Canada), Uwe Glässer (Computing Science, Simon Fraser University, BC, Canada), Amir Yaghoubi Shahir (Computing Science, Simon Fraser University, BC, Canada), Parvaneh Saeedi (Engineering Science Science, Simon Fraser University, BC, Canada), Hans Wehn (MDA Systems Ltd., Research & Development, Richmond, BC, Canada)
+Saeed Arasteh (Engineering Science Science, Simon Fraser University, BC, Canada), Mohammad A. Tayebi (Computing Science, Simon Fraser University, BC, Canada), Zahra Zohrevand (Computing Science, Simon Fraser University, BC, Canada), Uwe Gl盲sser (Computing Science, Simon Fraser University, BC, Canada), Amir Yaghoubi Shahir (Computing Science, Simon Fraser University, BC, Canada), Parvaneh Saeedi (Engineering Science Science, Simon Fraser University, BC, Canada), Hans Wehn (MDA Systems Ltd., Research & Development, Richmond, BC, Canada)
 
 - **Is Reinforcement Learning the Choice of Human Learners? A Case Study of Taxi Drivers** <br>
 Menghai Pan (Worcester Polytechnic Institute), Weixiao Huang (Worcester Polytechnic Institute), Yanhua Li (Worcester Polytechnic Institute), Xun Zhou (University of Iowa), Zhenming Liu (College of William & Mary), Jie Bao (JD Finance), Yu Zheng (JD Finance), Jun Luo (Lenovo Group Limited)
@@ -246,7 +246,7 @@ Maria Luisa Damiani (University of Milan), Andrea Acquaviva (University of Milan
 Manisha Dubey (Indian Institure of Technology Hyderabad), P.K. Srijith (Indian Institure of Technology Hyderabad), Maunendra Sankar Desarkar (Indian Institure of Technology Hyderabad)
 
 - **Route-preserving Road Network Generalization** <br>
-Mees van de Kerkhof (Utrecht University), Irina Kostitsyna (TU Eindhoven), Marc Van Kreveld (Utrecht University), Maarten Löffler (Utrecht University), Tim Ophelders (Michigan State University)
+Mees van de Kerkhof (Utrecht University), Irina Kostitsyna (TU Eindhoven), Marc Van Kreveld (Utrecht University), Maarten L枚ffler (Utrecht University), Tim Ophelders (Michigan State University)
 
 - **A Deep Learning Approach to Geographical Candidate Selection through Toponym Matching** <br>
 Mariona Coll Ardanuy (The Alan Turing Institute), Kasra Hosseini (The Alan Turing Institute), Katherine McDonough (The Alan Turing Institute), Amrey Krause (Edinburgh Parallel Computing Centre), Daniel van Strien (The British Library), Federico Nanni (The Alan Turing Institute)
@@ -255,7 +255,7 @@ Mariona Coll Ardanuy (The Alan Turing Institute), Kasra Hosseini (The Alan Turin
 Behrooz Omidvar-Tehrani (NAVER LABS Europe), Sruthi Viswanathan (NAVER LABS Europe), Renders Jean-Michel (NAVER LABS Europe)
 
 - **Spatio-Temporal Forecasting With Gridded Remote Sensing Data Using Feed-Backward Decoding.** <br>
-Mário Cardoso (IST and INESC-ID - Instituto Superior Técnico, University of Lisbon), Bruno Martins (IST and INESC-ID - Instituto Superior Técnico, University of Lisbon), Jacinto Estima (IST and INESC-ID - Instituto Superior Técnico, University of Lisbon)
+M谩rio Cardoso (IST and INESC-ID - Instituto Superior T茅cnico, University of Lisbon), Bruno Martins (IST and INESC-ID - Instituto Superior T茅cnico, University of Lisbon), Jacinto Estima (IST and INESC-ID - Instituto Superior T茅cnico, University of Lisbon)
 
 - **The impact of highly compact algorithmic redistricting on the rural-versus-urban balance** <br>
 Archer Wheeler (Brown University), Philip Klein (Brown University)
@@ -267,7 +267,7 @@ Raphaella Diniz (UFMG), Renato Assuncao (UFMG), Pedro Vaz-de-Melo (UFMG)
 Carsten Hahn (Ludwig Maximilian University of Munich), Sebastian Feld (Ludwig Maximilian University of Munich), Hannes Schroter (Ludwig Maximilian University of Munich)
 
 - **TA-Dash: An Interactive Dashboard for Spatial-Temporal Traffic Analytics** <br>
-Nicolas Tempelmeier (L3S Research Center), Anzumana Sander (PROJEKTIONISTEN GmbH), Udo Feuerhake (Institute of Cartography and Geoinformatics, Leibniz Universität Hannover), Martin Löhdefink (PROJEKTIONISTEN GmbH), Elena Demidova (L3S Research Center)
+Nicolas Tempelmeier (L3S Research Center), Anzumana Sander (PROJEKTIONISTEN GmbH), Udo Feuerhake (Institute of Cartography and Geoinformatics, Leibniz Universit盲t Hannover), Martin L枚hdefink (PROJEKTIONISTEN GmbH), Elena Demidova (L3S Research Center)
 
 - **A Visual Explorer for Geolocated Time Series** <br>
 Georgios Chatzigeorgakidis (Athena Research Center), Kostas Patroumpas (Information Management Systems Institute, Athena Research Center), Dimitrios Skoutas (Athena Research Center), Spiros Athanasiou (IMIS/RC Athena)
@@ -292,10 +292,10 @@ Mohamed Ali (University of Washington Tacoma), Ayush Bandil (University of Washi
 Victor Zakhary (UC Santa Barbara), Ishani Gupta (UC Santa Barbara), Rey Tang (UC Santa Barbara), Amr El Abbadi (UC Santa Barbara)
 
 - **Algorithmic Improvement of Crowdsourced Data: Intrinsic Quality Measures, Local Optima, and Consensus** <br>
-Thomas C. Van Dijk (Universität Würzburg), Norbert Fischer (Universität Würzburg), Bernhard Häussner (Universität Würzburg)
+Thomas C. Van Dijk (Universit盲t W眉rzburg), Norbert Fischer (Universit盲t W眉rzburg), Bernhard H盲ussner (Universit盲t W眉rzburg)
 
-- **Towards A Personal Shopper’s Dilemma: Time vs Cost** <br>
-Samiul Anwar (University of Alberta), Francesco Lettich (Università Ca’ Foscari Venezia), Mario Nascimento (University of Alberta)
+- **Towards A Personal Shopper鈥檚 Dilemma: Time vs Cost** <br>
+Samiul Anwar (University of Alberta), Francesco Lettich (Universit脿 Ca鈥� Foscari Venezia), Mario Nascimento (University of Alberta)
 
 - **Predicting Human Mobility with Federated Learning** <br>
 Anliang Li (Northeastern University), Wenzhu Li (Northeastern University), Shuang Wang (Northeastern University), Shengnan Liu (Northeastern University), Siyuan Zhang (Northeastern University)
@@ -344,7 +344,7 @@ Yiming Liu (Marquette University), Satish Puri (Marquette University)
 - **Reimagining City Configuration: Automated Urban Planning via Adversarial Learning<font color="red">(best paper candidate)</font>** <br>
 Dongjie Wang (University of Central Florida), Yanjie Fu (University of Central Florida), Pengyang Wang (University of Central Florida), Bo Huang (The Chinese University of Hong Kong), Chang-Tien Lu (Virginia Tech)
 
-- **‘Reading’ cities with computer vision: a new multi-spatial scale urban fabric dataset and a novel convolutional neural network solution for urban fabric classification tasks** <br>
+- **鈥楻eading鈥� cities with computer vision: a new multi-spatial scale urban fabric dataset and a novel convolutional neural network solution for urban fabric classification tasks** <br>
 Zhou Fang (Univerisity of Cambridge), Jiaxin Qi (Nanyang Technological University), Tianren Yang (University of Cambridge), Li Wan (University of Cambridge), Ying Jin (University of Cambridge)
 
 - **Succinct Trit-array Trie for Scalable Trajectory Similarity Search** <br>
