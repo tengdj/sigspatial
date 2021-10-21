@@ -62,10 +62,10 @@ public static void main(String[] args) throws FileNotFoundException, IOException
     	}else {
     		Paper p = new Paper();
     		p.id = Integer.parseInt(fields.get(0));
-    		p.name = fields.get(2);
+    		p.title = fields.get(2);
     		p.authors = authors.get(p.id);
     		if(!authors.containsKey(p.id)) {
-    			System.err.println("no author information for "+p.name);
+    			System.err.println("no author information for "+p.title);
     		}
     		if(fields.get(3).toLowerCase().contains("poster")) {
     			p.type = PaperType.POSTER;
