@@ -45,67 +45,54 @@ public static void main(String[] args) throws FileNotFoundException, IOException
     }
     br.close();
 	
-	
-	ArrayList<Paper> papers = new ArrayList<Paper>();
-	ArrayList<Paper> demos = new ArrayList<Paper>();
-	ArrayList<Paper> posters = new ArrayList<Paper>();
-	ArrayList<Paper> industry = new ArrayList<Paper>();
-	br = new BufferedReader(new FileReader("files/papers.csv",StandardCharsets.UTF_8));
+	// read files into lists
 
+	HashMap<PaperType, ArrayList<Paper>> sessions = new HashMap<PaperType, ArrayList<Paper>>();
+    sessions.put(PaperType.DEMO, new ArrayList<Paper>());
+    sessions.put(PaperType.POSTER, new ArrayList<Paper>());
+    sessions.put(PaperType.SYSTEM, new ArrayList<Paper>());
+    sessions.put(PaperType.INDUSTRY, new ArrayList<Paper>());
+    sessions.put(PaperType.RESEARCH, new ArrayList<Paper>());
+    
+	br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\paperinfo\\papers.csv",StandardCharsets.UTF_8));
     //skip head
     br.readLine();
     while ((input_line = br.readLine()) != null) {
     	//input_line = input_line.substring(0,input_line.length()-1);
-    	ArrayList<String> fields = Util.tokenize(input_line,",",true,"\"");
-    	if(fields.size()!=4) {
-    		System.err.println(input_line);
-    	}else {
-    		Paper p = new Paper();
-    		p.id = Integer.parseInt(fields.get(0));
-    		p.title = fields.get(2);
-    		p.authors = authors.get(p.id);
-    		if(!authors.containsKey(p.id)) {
-    			System.err.println("no author information for "+p.title);
-    		}
-    		if(fields.get(3).toLowerCase().contains("poster")) {
-    			p.type = PaperType.POSTER;
-    			posters.add(p);
-    		}else if(fields.get(3).toLowerCase().contains("demo")) {
-    			p.type = PaperType.DEMO;
-    			demos.add(p);
-    		}else if(fields.get(3).toLowerCase().contains("system")) {
-    			p.type = PaperType.SYSTEM;
-    			industry.add(p);
-    		}else if(fields.get(3).toLowerCase().contains("industr")) {
-    			p.type = PaperType.INDUSTRY;
-    			industry.add(p);
-    		}else if(fields.get(3).toLowerCase().contains("research")) {
-    			p.type = PaperType.RESEARCH;
-    			papers.add(p);
-    		}else {
-    			System.err.println("wrong paper type "+fields.get(3));
-    		}
+    	Paper p = Paper.parse(input_line);
+    	if(p==null) {
+    		continue;
     	}
+    	p.uid = null;
+    	p.authors = authors.get(p.id);
+    	sessions.get(p.type).add(p);
     }
-    br.close();	
-	
-	PrintStream out = new PrintStream("C:\\Users\\dejun teng\\Google �ƶ�Ӳ��\\sigspatial2021\\content\\accepted-papers.md","UTF-8");	
-	out.println("Title: Accepted Papers\nCategory: Accepted Papers\n");
+    br.close();
+    
+    
+	br = new BufferedReader(new FileReader("files/papers.csv",StandardCharsets.UTF_8));
+
+	PrintStream out = new PrintStream("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\accepted-papers.md","UTF-8");	
+	//out = System.out;
+	out.println("Title: Accepted Papers\nCategory: Program\n");
 	
 	out.println("### Full Research Papers");
-	for(Paper p:papers) {
+	for(Paper p:sessions.get(PaperType.RESEARCH)) {
 		out.println(p.toString()+"\n");
 	}
 	out.println("### Systems and Industrial Experience Papers");
-	for(Paper p:industry) {
+	for(Paper p:sessions.get(PaperType.SYSTEM)) {
+		out.println(p.toString()+"\n");
+	}
+	for(Paper p:sessions.get(PaperType.INDUSTRY)) {
 		out.println(p.toString()+"\n");
 	}
 	out.println("### Poster Papers");
-	for(Paper p:posters) {
+	for(Paper p:sessions.get(PaperType.POSTER)) {
 		out.println(p.toString()+"\n");
 	}
 	out.println("### Demonstration Papers");
-	for(Paper p:demos) {
+	for(Paper p:sessions.get(PaperType.DEMO)) {
 		out.println(p.toString()+"\n");
 	}
 	out.close();

@@ -22,7 +22,7 @@ public class Program {
 		
 		// load the paper information from the csv file
 		HashMap<String, ArrayList<Paper>> sessions = new HashMap<String, ArrayList<Paper>>();
-		BufferedReader br = new BufferedReader(new FileReader("files/paper_info.csv",StandardCharsets.UTF_8));
+		BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\paperinfo\\papers.csv",StandardCharsets.UTF_8));
 	    String input_line = "";
 	    //skip head
 	    br.readLine();
@@ -49,7 +49,7 @@ public class Program {
 		
 	    //update the program.md file with the paper information
 	    br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\program_template.html",StandardCharsets.UTF_8));
-		PrintStream out = new PrintStream("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\program3.html","UTF-8");
+		PrintStream out = new PrintStream("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\program.md","UTF-8");
 		//out = System.out;
 	    while ((input_line = br.readLine()) != null) {
 	    	// skip other lines
@@ -58,6 +58,7 @@ public class Program {
 				continue;
 			}
 	    	ArrayList<String> sesinfo = Util.tokenize(input_line, "-", true, "\"");
+	    	//System.out.println(sesinfo.get(0));
 	    	if(sessions.containsKey(sesinfo.get(0))) {
 		    	out.println("<ul>");
 		    	for(int i=1;i<=sessions.get(sesinfo.get(0)).size();i++) {
@@ -67,7 +68,8 @@ public class Program {
 				    		// print the name
 							out.print(p.toString());
 							// print the URL for bilibili, youtube, and shared document
-							//out.println(p.urlInfo());
+							out.println(p.urlInfo());
+							System.out.println(p.urlInfo());
 							out.flush();
 			    		}
 			    	}
@@ -78,7 +80,7 @@ public class Program {
 	    		out.println("TBA");
 	    	}
 	    }
-	    //out.close();
+	    out.close();
 	    br.close();
 	}
 }
