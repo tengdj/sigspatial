@@ -20,7 +20,7 @@ public static void main(String[] args) throws FileNotFoundException, IOException
 
 	// load the authors
 	HashMap<Integer, ArrayList<Author>> authors = new HashMap<Integer, ArrayList<Author>>();
-	BufferedReader br = new BufferedReader(new FileReader("files/authors.csv",StandardCharsets.UTF_8));
+	BufferedReader br = new BufferedReader(new FileReader(Util.filefolder+"/authors.csv",StandardCharsets.UTF_8));
 	String input_line = "";
     //skip head
     br.readLine();
@@ -54,7 +54,7 @@ public static void main(String[] args) throws FileNotFoundException, IOException
     sessions.put(PaperType.INDUSTRY, new ArrayList<Paper>());
     sessions.put(PaperType.RESEARCH, new ArrayList<Paper>());
     
-	br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\paperinfo\\papers.csv",StandardCharsets.UTF_8));
+	br = new BufferedReader(new FileReader(Util.filefolder+"/papers.csv",StandardCharsets.UTF_8));
     //skip head
     br.readLine();
     while ((input_line = br.readLine()) != null) {
@@ -70,9 +70,9 @@ public static void main(String[] args) throws FileNotFoundException, IOException
     br.close();
     
     
-	br = new BufferedReader(new FileReader("files/papers.csv",StandardCharsets.UTF_8));
+	br = new BufferedReader(new FileReader(Util.filefolder+"/papers.csv",StandardCharsets.UTF_8));
 
-	PrintStream out = new PrintStream("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\accepted-papers.md","UTF-8");	
+	PrintStream out = new PrintStream(Util.filefolder+"/accepted-papers.md","UTF-8");	
 	//out = System.out;
 	out.println("Title: Accepted Papers\nCategory: Program\n");
 	

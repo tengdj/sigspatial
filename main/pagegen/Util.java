@@ -3,6 +3,8 @@ package pagegen;
 import java.util.ArrayList;
 
 public class Util {
+	public static String filefolder = "path to the folder contains the information files";
+
 	public static ArrayList<String> tokenize(String str, String delimiters, boolean keepBlankFields,String quote){
 
 		ArrayList<String> result = new ArrayList<String>();
