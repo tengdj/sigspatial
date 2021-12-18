@@ -10,6 +10,7 @@ import java.util.HashMap;
 
 public class Program {
 
+	public static String filefolder = "path to the folder contains the information files";
 	static boolean is_session(String line){
 		//return line.length()>4&&line.charAt(0)=='-'&&line.charAt(1)==' '&&line.charAt(2)=='*'&&line.charAt(3)=='*';
 		return line.contains("placeholder");
@@ -18,11 +19,11 @@ public class Program {
 	public static void main(String[] args) throws IOException {
 		
 		// load the authors 
-		HashMap<Integer, ArrayList<Author>> authors = Author.parseAuthors("files/authors.csv");
+		HashMap<Integer, ArrayList<Author>> authors = Author.parseAuthors(filefolder+"/authors.csv");
 		
 		// load the paper information from the csv file
 		HashMap<String, ArrayList<Paper>> sessions = new HashMap<String, ArrayList<Paper>>();
-		BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\paperinfo\\papers.csv",StandardCharsets.UTF_8));
+		BufferedReader br = new BufferedReader(new FileReader(filefolder+"/papers.csv",StandardCharsets.UTF_8));
 	    String input_line = "";
 	    //skip head
 	    br.readLine();
@@ -48,8 +49,8 @@ public class Program {
 	    br.close();
 		
 	    //update the program.md file with the paper information
-	    br = new BufferedReader(new FileReader("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\program_template.html",StandardCharsets.UTF_8));
-		PrintStream out = new PrintStream("C:\\Users\\tengd\\我的云端硬盘\\sigspatial2021\\content\\program.md","UTF-8");
+	    br = new BufferedReader(new FileReader(filefolder+"/program_template.html",StandardCharsets.UTF_8));
+		PrintStream out = new PrintStream(filefolder+"/program.md","UTF-8");
 		//out = System.out;
 	    while ((input_line = br.readLine()) != null) {
 	    	// skip other lines
